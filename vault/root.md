@@ -1,12 +1,10 @@
 ---
 id: af55c5e2-c6db-4b7d-a515-a55d13d9f9de
-title: abhnvx's brain 🧠
+title: Ayo 👋🏻
 updated: 1611350453794
 created: 1611350453795
 published: true
 ---
-# Ayo 🔎
-
 I am Abhinav. I work on Ideas that shift paradigms.
 
 This is my Digital Brain 🧠
