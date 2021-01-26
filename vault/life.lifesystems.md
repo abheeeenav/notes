@@ -1,9 +1,9 @@
 ---
-id: 3388d3f0-fdc4-4bc5-89cf-32532bdaf87d
+id: 1d0dd3ff-0e09-4630-acde-3077fe2eddbc
 title: Lifesystems
 desc: ''
-updated: 1611639915708
-created: 1611639836961
+updated: 1611640482844
+created: 1611640474647
 ---
 
 There are two ways to approach [[life]], you can have a system where you want short term results and you can have a system where you have a long term game plan. The latter one is more robust and beneficial.
@@ -19,4 +19,3 @@ For example, I today decide to meditate 30 mins in the morning every day consist
 This is how you create your life system. Define what you want from your system, plan around it, experiment, and iterate it till your work doesn't look like work and you legit enjoy that system.
 
 People often talk about work/life balance but what if your work is as good as life and are interconnected. What will you do if you don't work? Even small things like writing and reading are work for your brain. So the idea of having a work/life balance doesn't seem to suit much. Rather than create a weaved system where your life and work are interconnected.
-
