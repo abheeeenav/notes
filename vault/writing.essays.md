@@ -2,7 +2,7 @@
 id: aa59ea01-f55e-442d-84a1-884c19372d90
 title: Essays
 desc: ''
-updated: 1611640404370
+updated: 1611640760156
 created: 1611640404370
 ---
 
@@ -18,4 +18,4 @@ When you write as essay you have various paths to go about. You tend to explore 
 
 Be like a medley river. Medley is a river which by flowing has created its own path to find the most optimal path. You essay is this river. Flowing to fond most interesting things. And if you find a roadblack, backtrack and see on which path you ran out of ideas.
 
--- will re read to brush up.
+-- will re read to brush up

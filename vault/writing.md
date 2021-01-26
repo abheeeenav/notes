@@ -1,9 +1,10 @@
 ---
-id: ee86b3ed-0f47-49ec-a2ae-38ae0ee28ef3
+id: ffb87873-4016-4c87-85cd-6f1d778a6198
 title: Writing
 desc: ''
-updated: 1611640420934
-created: 1611640225326
+updated: 1611640753225
+created: 1611640404402
+stub: false
 ---
 
-my notes about witing
+thoughs on writing
